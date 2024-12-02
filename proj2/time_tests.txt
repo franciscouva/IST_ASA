@@ -1,0 +1,55 @@
+tests/testfile0
+
+real	0m0,003s
+user	0m0,003s
+sys	0m0,000s
+tests/testfile10000
+
+real	0m0,015s
+user	0m0,015s
+sys	0m0,000s
+tests/testfile100000
+
+real	0m0,154s
+user	0m0,128s
+sys	0m0,020s
+tests/testfile20000
+
+real	0m0,019s
+user	0m0,015s
+sys	0m0,004s
+tests/testfile30000
+
+real	0m0,036s
+user	0m0,031s
+sys	0m0,004s
+tests/testfile40000
+
+real	0m0,041s
+user	0m0,029s
+sys	0m0,011s
+tests/testfile50000
+
+real	0m0,051s
+user	0m0,044s
+sys	0m0,005s
+tests/testfile60000
+
+real	0m0,063s
+user	0m0,050s
+sys	0m0,013s
+tests/testfile70000
+
+real	0m0,076s
+user	0m0,065s
+sys	0m0,008s
+tests/testfile80000
+
+real	0m0,089s
+user	0m0,077s
+sys	0m0,012s
+tests/testfile90000
+
+real	0m0,105s
+user	0m0,101s
+sys	0m0,004s
